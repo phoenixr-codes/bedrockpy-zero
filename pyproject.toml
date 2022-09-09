@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "bedrockpy"
-version = "0.0.1a3"
+version = "0.1.0"
 description = "Minecraft Bedrock Edition Websocket Server"
 readme = "README.rst"
 requires-python = ">=3.8"
@@ -47,8 +47,8 @@ classifiers = [
 "Documentation" = "https://phoenixr-codes.github.io/bedrockpy/"
 "Source Code" = "https://github.com/phoenixr-codes/bedrockpy/"
 
-[project.entry-points]
-bedrockws = "bedrock._ci:main"
+#[project.entry-points]
+#bedrockws = "bedrock._ci:main"
 
 [tool.setuptools]
 packages = ["bedrock"]

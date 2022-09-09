@@ -42,7 +42,7 @@ Don't worry, there is way more to create!
    
    @app.command()
    async def hello(ctx):
-   """say hello"""
+       """say hello"""
        ctx.tell("Hello, World!")
    
    app.run()
