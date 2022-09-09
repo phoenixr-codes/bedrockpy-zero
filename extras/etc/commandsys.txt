@@ -1,0 +1,16 @@
+Command
+  prefix
+  enabled
+  name
+  coro
+  whitelist
+  blacklist
+  
+Cog
+  name = Cog.__class__.__name__
+  prefix = None
+  enabled = true
+  whitelist = None
+  blacklist
+  commands
+

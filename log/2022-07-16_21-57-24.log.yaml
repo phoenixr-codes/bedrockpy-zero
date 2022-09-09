@@ -1,0 +1,10 @@
+body:
+  message: Pong!
+  recipient:
+  - HortyRecord8725
+  statusCode: 0
+  statusMessage: 'Du flüsterst HortyRecord8725 zu: Pong!'
+header:
+  messagePurpose: commandResponse
+  requestId: 2e953119-c26b-40cc-85b4-3befddc9a4d5
+  version: 16842752

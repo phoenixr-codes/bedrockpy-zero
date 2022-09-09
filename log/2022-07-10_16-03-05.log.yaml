@@ -1,0 +1,7 @@
+body:
+  statusCode: 0
+  statusMessage: Title-Befehl erfolgreich ausgeführt
+header:
+  messagePurpose: commandResponse
+  requestId: da02b69e-9881-4dd3-9bd7-67fc612d8ab1
+  version: 16842752

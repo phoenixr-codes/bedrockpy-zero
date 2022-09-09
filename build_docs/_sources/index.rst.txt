@@ -1,0 +1,21 @@
+***********************
+bedrockpy documentation
+***********************
+
+=======
+Content
+=======
+
+.. toctree::
+   quickstart
+   api
+   commands
+
+
+=====
+Other
+=====
+
+.. toctree::
+   boilerplate-code
+

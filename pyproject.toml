@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bedrockpy"
+version = "0.0.1a3"
+description = "Minecraft Bedrock Edition Websocket Server"
+readme = "README.rst"
+requires-python = ">=3.8"
+dependencies = [
+    "art",
+    "convert-case",
+    "packaging",
+    "ruamel.yaml",
+    "websockets",
+]
+optional-dependencies = {uvloop = ["uvloop"]}
+keywords = [
+    "bot",
+    "minecraft",
+    "websocket",
+]
+license = {file = "LICENSE.txt"}
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: End Users/Desktop",
+    "Intended Audience :: Information Technology",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: Implementation :: CPython",
+    "Topic :: Education",
+    "Topic :: Games/Entertainment",
+    "Typing :: Typed",
+]
+
+[project.urls]
+"Documentation" = "https://phoenixr-codes.github.io/bedrockpy/"
+"Source Code" = "https://github.com/phoenixr-codes/bedrockpy/"
+
+[project.entry-points]
+bedrockws = "bedrock._ci:main"
+
+[tool.setuptools]
+packages = ["bedrock"]

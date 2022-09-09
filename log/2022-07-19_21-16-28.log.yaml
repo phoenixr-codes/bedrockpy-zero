@@ -1,0 +1,8 @@
+body:
+  recipient:
+  - HortyRecord8725
+  statusCode: 0
+header:
+  messagePurpose: commandResponse
+  requestId: 1f7b9682-3c1b-4222-9428-65320aeeca15
+  version: 16842752

@@ -1,0 +1,9 @@
+body:
+  message: Hallo Welt
+  receiver: HortyRecord8725
+  sender: Extern
+  type: title
+header:
+  eventName: PlayerMessage
+  messagePurpose: event
+  version: 16842752

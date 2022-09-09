@@ -1,0 +1,7 @@
+body:
+  statusCode: -2147483648
+  statusMessage: 'Syntaxfehler: Unerwartetes "[": at ""rawtext" >>[<<{"text": ""'
+header:
+  messagePurpose: commandResponse
+  requestId: 4e890701-b208-44df-a12d-4b37e3df2537
+  version: 16842752

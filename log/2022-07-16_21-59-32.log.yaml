@@ -1,0 +1,12 @@
+body:
+  message: "§cUnknownCommandError: command 'lo' does not exist; perhaps you meant\
+    \ one of ?§r"
+  recipient:
+  - HortyRecord8725
+  statusCode: 0
+  statusMessage: "Du flüsterst HortyRecord8725 zu: §cUnknownCommandError: command\
+    \ 'lo' does not exist; perhaps you meant one of ?§r"
+header:
+  messagePurpose: commandResponse
+  requestId: fdcea070-d5c4-4cdb-959d-1c502a81c7a4
+  version: 16842752

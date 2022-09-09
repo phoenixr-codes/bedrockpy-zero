@@ -1,0 +1,10 @@
+body:
+  message: a / b = 0.875
+  recipient:
+  - HortyRecord8725
+  statusCode: 0
+  statusMessage: 'Du flüsterst HortyRecord8725 zu: a / b = 0.875'
+header:
+  messagePurpose: commandResponse
+  requestId: 0ad77be7-9ec7-44b2-8bc3-61cd69c5b11d
+  version: 16842752

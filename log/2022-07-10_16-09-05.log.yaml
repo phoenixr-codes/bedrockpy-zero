@@ -1,0 +1,32 @@
+body:
+  block:
+    aux: 1
+    id: stone_brick_stairs
+    namespace: minecraft
+  count: 1
+  placedUnderWater: false
+  placementMethod: 0
+  player:
+    color: ff5454ff
+    dimension: 0
+    id: -4294967295
+    name: HortyRecord8725
+    position:
+      x: 121.9285583496094
+      y: -51.07113647460938
+      z: 161.0234527587891
+    type: minecraft:player
+    variant: 0
+    yRot: 75.76182556152344
+  tool:
+    aux: 0
+    enchantments: []
+    freeStackSize: 0
+    id: stone_brick_stairs
+    maxStackSize: 64
+    namespace: minecraft
+    stackSize: 64
+header:
+  eventName: BlockPlaced
+  messagePurpose: event
+  version: 16842752

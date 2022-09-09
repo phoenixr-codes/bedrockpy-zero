@@ -1,0 +1,7 @@
+body:
+  statusCode: -2147483648
+  statusMessage: 'Syntaxfehler: Unerwartetes "": at "[{"text": >><< §l§6bed"'
+header:
+  messagePurpose: commandResponse
+  requestId: 13a287a5-d3ab-4fc1-a4f8-2aed2ab5fb4e
+  version: 16842752

@@ -1,0 +1,12 @@
+body:
+  message: "§cUnknownCommandError: command 'pong' does not exist; perhaps you meant\
+    \ ping?§r"
+  recipient:
+  - HortyRecord8725
+  statusCode: 0
+  statusMessage: "Du flüsterst HortyRecord8725 zu: §cUnknownCommandError: command\
+    \ 'pong' does not exist; perhaps you meant ping?§r"
+header:
+  messagePurpose: commandResponse
+  requestId: 6e6cd47c-d487-4863-94cc-2fa0bc06ecd9
+  version: 16842752

@@ -1,0 +1,11 @@
+body:
+  message: '§cTooManyArgumentsError: command takes 0 arguments but 1 were given§r'
+  recipient:
+  - HortyRecord8725
+  statusCode: 0
+  statusMessage: 'Du flüsterst HortyRecord8725 zu: §cTooManyArgumentsError: command
+    takes 0 arguments but 1 were given§r'
+header:
+  messagePurpose: commandResponse
+  requestId: 289bdbd3-9630-413f-8876-3e243d69da72
+  version: 16842752

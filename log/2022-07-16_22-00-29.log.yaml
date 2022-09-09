@@ -1,0 +1,12 @@
+body:
+  message: "§cUnknownCommandError: command 'pinf' does not exist; perhaps you meant\
+    \ ping?§r"
+  recipient:
+  - HortyRecord8725
+  statusCode: 0
+  statusMessage: "Du flüsterst HortyRecord8725 zu: §cUnknownCommandError: command\
+    \ 'pinf' does not exist; perhaps you meant ping?§r"
+header:
+  messagePurpose: commandResponse
+  requestId: 63de5657-6266-4cf4-9942-3e775298fbdc
+  version: 16842752

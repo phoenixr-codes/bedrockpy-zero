@@ -1,0 +1,28 @@
+.. currentmodule:: bedrock
+
+***
+API
+***
+
+======
+server
+======
+
+.. autoclass:: Server
+   :members:
+
+
+========
+commands
+========
+
+.. automodule:: bedrock.commands
+   :members: Command, get_command_args, get_command_args_v2
+
+
+=====
+utils
+=====
+
+.. autofunction:: bedrock.utils.boolean
+

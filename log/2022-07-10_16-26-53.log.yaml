@@ -1,0 +1,9 @@
+body:
+  message: hs
+  receiver: ''
+  sender: HortyRecord8725
+  type: chat
+header:
+  eventName: PlayerMessage
+  messagePurpose: event
+  version: 16842752

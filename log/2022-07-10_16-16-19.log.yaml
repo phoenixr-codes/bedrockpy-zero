@@ -1,0 +1,9 @@
+body:
+  message: '[Extern] overflow 74'
+  receiver: ''
+  sender: Extern
+  type: say
+header:
+  eventName: PlayerMessage
+  messagePurpose: event
+  version: 16842752

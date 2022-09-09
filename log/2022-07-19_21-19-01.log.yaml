@@ -1,0 +1,10 @@
+body:
+  message: "{\"rawtext\":[{\"text\":\"§cUnknownCommandError: command 'oing' does not\
+    \ exist; perhaps you meant 'ping'?§r\"}]}\n"
+  receiver: HortyRecord8725
+  sender: Extern
+  type: tell
+header:
+  eventName: PlayerMessage
+  messagePurpose: event
+  version: 16842752

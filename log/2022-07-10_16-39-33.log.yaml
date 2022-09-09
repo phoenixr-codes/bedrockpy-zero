@@ -1,0 +1,32 @@
+body:
+  block:
+    aux: 0
+    id: grass
+    namespace: minecraft
+  count: 1
+  destructionMethod: 0
+  player:
+    color: ff5454ff
+    dimension: 0
+    id: -4294967295
+    name: HortyRecord8725
+    position:
+      x: 62.81576156616211
+      y: -51.07113647460938
+      z: 155.4040069580078
+    type: minecraft:player
+    variant: 0
+    yRot: 2.500152587890625
+  tool:
+    aux: 0
+    enchantments: []
+    freeStackSize: 0
+    id: stone_brick_stairs
+    maxStackSize: 64
+    namespace: minecraft
+    stackSize: 64
+  variant: 0
+header:
+  eventName: BlockBroken
+  messagePurpose: event
+  version: 16842752
