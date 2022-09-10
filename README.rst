@@ -36,6 +36,11 @@ Don't worry, there is way more to create!
    
    import bedrock
    
+   app = bedrock.Server(
+       "localhost", 6464,
+       command_prefix = "$"
+   )
+   
    @app.event
    async def on_ready(ctx):
        print("Ready!")

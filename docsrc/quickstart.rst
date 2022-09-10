@@ -96,11 +96,16 @@ And finally, start the server:
     
     app.run()
 
-All together it would look like this:
+All combined and it should look like this:
 
 .. code-block:: python3
    
    import bedrock
+   
+   app = bedrock.Server(
+       "localhost", 6464,
+       command_prefix = "$"
+   )
    
    @app.event
    async def on_ready(ctx):
@@ -108,7 +113,7 @@ All together it would look like this:
    
    @app.command()
    async def hello(ctx):
-   """say hello"""
+       """say hello"""
        ctx.tell("Hello, World!")
    
    app.run()
