@@ -151,7 +151,7 @@ class Server:
     
     def _remove_prefix(self, string: str) -> str:
         output = string.removeprefix(self._prefix)
-        if len(output) != len(string):
+        if len(output) == len(string):
             raise ValueError(f"missing prefix {self._prefix!r}")
         return output
     
