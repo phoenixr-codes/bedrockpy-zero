@@ -2,6 +2,15 @@
 bedrockpy
 *********
 
+=========
+ATTENTION
+=========
+
+This library is outdated. Use the new version as
+it is released:
+
+https://github.com/phoenixr-codes/bedrockpy
+
 bedrockpy is a library that handles a websocket
 connection between your Minecraft world and your
 server. This library allows you to create custom
