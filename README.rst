@@ -62,7 +62,7 @@ Don't worry, there is way more to create!
    app.run()
 
 
-`Documentation <https://phoenixr-codes.github.io/bedrockpy/>`_
+`Documentation <https://phoenixr-codes.github.io/bedrockpy-zero/>`_
 
 
 NOT AN OFFICIAL MINECRAFT PRODUCT.
